@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31ce8495-c9f2-4e13-9a50-ccc5ee231ce5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/Main.java" afterDir="false" />
+    <list default="true" id="31ce8495-c9f2-4e13-9a50-ccc5ee231ce5" name="Changes" comment="Init Intern repo">
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/basesyntax/SimpleStringEncoder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/SimpleStringEncoderTest.java" afterDir="false" />
     </list>
@@ -64,6 +57,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="SimpleStringEncoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="intern" />
@@ -88,11 +89,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709545636218</updated>
-      <workItem from="1709545637298" duration="458000" />
+      <workItem from="1709545637298" duration="817000" />
     </task>
+    <task id="LOCAL-00001" summary="Init Intern repo">
+      <created>1709546434134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709546434134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Intern repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Intern repo" />
   </component>
 </project>
